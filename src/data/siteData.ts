@@ -47,7 +47,7 @@ export const siteData = {
   // Background Music Configuration
   music: {
     audioSrc: "/music/song.mp3",
-    title: "Lagu Romantis Untuk Aida",
+    title: "hehe",
     artist: "Arul",
   },
 
